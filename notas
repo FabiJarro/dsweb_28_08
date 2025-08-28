@@ -1,0 +1,43 @@
+daquele exemplo fornecedr
+
+Nome e telefone
+fornacedor 
+atributos
+---
+
+nas filhas: não precisa repetir nome e fone
+
+A classe mãe Fornecedor
+classes filhas: FornecedorPessoa/ FornecedorEmpresa
+
+no js:
+
+class Fornecedor
+Pessoa extends Fornecedor
+
+fornecedor Pessoa 
+atributos rg e cpf(parece que é único)
+nome  e fone é da classe fornecedor
+4 atributos
+
+FornecedorEmpresa 
+atributos: ie, cnpj
+nome  e fone é da classe fornecedor
+
+
+
+classes
+publico e private
+//javascript é isso acho
+
+métodos 
+ações que aquela classe vai fazer 
+
++ significa público
+- significa privado
+
+//sobrecarga de classe
+
+métodos get e set
+set coloca
+get retira e passa pra quem pediu
